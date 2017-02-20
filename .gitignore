@@ -1,0 +1,7 @@
+Debug
+*.opensdf
+*.sdf
+*.suo
+MasterMind/bin
+MasterMind/Debug
+Mastermind/obj
